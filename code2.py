@@ -1,3 +1,4 @@
+# Find duplicate elements in a list
 servers = [101, 102, 103, 102, 104, 101, 105]
 
 seen = set()
