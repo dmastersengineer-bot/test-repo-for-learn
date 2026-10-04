@@ -1,3 +1,4 @@
+# Reverse a string without using built-in functions
 s = "azuredevops"
 reversed_str = ""
 
