@@ -11,3 +11,4 @@ for ch in s:
 
 print(reversed_str)
 # one line added here in code1
+# Pd is clever.
